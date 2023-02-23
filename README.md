@@ -42,13 +42,13 @@ NFT好看的項目不少，另外還有elysiumshell也是個人喜歡的項目�
 
 ------------
 
-##Gamefi : illuvium
+## Gamefi : illuvium
 其實我在猶豫是chumbivalley還是illuvium比較好，
 後來我選擇用illuvium來解說，因為這是少數能存活的Gamefi，
 
 ![image](https://storage.googleapis.com/image.blocktempo.com/2021/08/open_graph.jpeg)
 
-####1.前端與視覺：
+#### 1.前端與視覺：
 號稱Gamefi中的3A大作，所以在畫面表現質量很高，
 因為是遊戲不特別說明遊戲畫面，以官網界面設計，因為東西很多，加上要跟遊戲結合，
 呈現出來很科幻，卻又能表現得很乾淨，這是不容易表現的。
@@ -64,7 +64,7 @@ Gaemfi陣亡率很高，我自己當時很喜歡Axie，因為可愛的畫風，�
 
 ------------
 
-##Defi : Uniswap
+## Defi : Uniswap
 
 印象中也是difi早期的龍頭，當時常常用來轉換Eth，
 Defi其實比較不是這麼重視視覺，但我覺得要能讓人家呈現專業的感覺還是需要靠視覺，
@@ -73,11 +73,11 @@ curve專業性夠可是一樣設計還有效能都不好看。
 
 ![image](https://storage.googleapis.com/image.blocktempo.com/2022/07/twitter-card.jpg)
 
-####1.前端與視覺:
+#### 1.前端與視覺:
 比起其他Defi，設計上有自己的風格，一隻獨角獸的頭非常好認，
 呈現方式有點像是NFTmarket，有特別設計過，比較像是純血區塊鏈項目的視覺感
 
-####2.項目特色 :
+#### 2.項目特色 :
 Eth內的龍頭項目，延伸出很多Dapp，就算在熊市也是有很好的表現
 
 ------------
@@ -100,7 +100,7 @@ Filecoin的部分，我並沒有徹底了解過Filecoin過，因為當時專注�
 ------------
 
 ## -請分享之前 smart contract 的經驗
-######可以參考Source資料夾有個人開發相關的Sorce Code
+###### 可以參考Source資料夾有個人開發相關的Sorce Code
 因為通常Smart Contract大多都是使用套版，所以很多人沒有去理解細節造成很多問題，
 我自己會把整個智能合約釐清一遍，然後再去開發，所以Source的邏輯都是自己想的。
 
